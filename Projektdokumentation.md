@@ -20,7 +20,7 @@ Janick Hurschler
 
 Ein Roulette-Spiel mit Windows WPF und C#.
 
-Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man kann sein Einsatz gewinnen und verlieren. Dabei wird keine echte Währung eingesetzt. Bei dem Spiel setzt man ein Betrag auf ein Feld oder eine bestimmte Auswahl an Feldern. Je unwahrscheinlicher das Feld ist, desto höher der möglich Gewinn. Nach dem Einsatz wird eine Zufällige Zahl generiert, die eine zwirbelnde Kugel ersetzt. Schlussendlich wird hat der Spieler richtig gesetzt und bekommt ein Gewinn oder er hat sich vertan und geht pleite.
+Wir programmieren ein Roulette-Spiel, das jedermann spielen kann. Man kann seinen Einsatz gewinnen oder verlieren. Dabei wird natürlich keine echte Währung eingesetzt. Bei dem Spiel setzt man ein Betrag auf ein Feld oder eine bestimmte Auswahl an Feldern. Je unwahrscheinlicher das Feld ist, desto höher der mögliche Gewinn. Nach dem Einsatz wird eine zufällige Zahl generiert, die die Roulette-Kugel ersetzt. Schlussendlich gewinnt oder verliert der Spieler seinen gesetzten Betrag und kann dann entweder nochmals spielen oder ist pleite.
 
 
 ### 1.2 User Stories
@@ -49,17 +49,17 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  20.09.2023     |    Joël       |      Projekt erstellen mit notwendigen Dateien.        |        45 min       |
-| 1.B  |   20.09.2023    |    alle      |       Code zum Main-Window schreiben.       |     180 min          |
-| 1.C | 20.09.2023 | alle | Design fürs Main-Window erstellt| 180 min |
-| 1.D|20.09.2023 | Janick| Projektdoku updaten| 10 min |
+| 1.A  |  20.09.2023     |    Joël       |      Projekt mit notwendigen Dateien erstellen      |        45 min       |
+| 1.B  |   20.09.2023    |    alle      |       Code zum Main-Window schreiben      |     180 min          |
+| 1.C | 20.09.2023 | Joël | Design fürs Main-Window erstellen| 180 min |
+| 1.D|20.09.2023 | Janick| Projektdoku updaten| 20 min |
 |2.A |18.10.2023 |alle |Eingabefunktion für Benutzer |135 min |
-|2.B | 18.10.2023|alle |Zufallsgenerator für die Felder |90 min |
-|2.C | 18.10.2023|Ben |Projektdoku updaten | 10 min|
-|3.A |25.10.2023 |alle |Code zusammengesetzt und design angepasst |180 min |
+|2.B | 18.10.2023|Joël |Zufallsgenerator für die Felder schreiben |90 min |
+|2.C | 18.10.2023|Ben |Projektdoku updaten | 20 min|
+|3.A |25.10.2023 |alle |Code zusammensetzen und Design anpassen |180 min |
 |3.B | 25.10.2023|Joël | Projektdoku updaten|10 min |
-| 4.A|01.11.2023 |alle | Feinschliff und anpassung des Designs|180 min |
-|4.B |01.11.2023 | Janick|Projektdoku updaten |10 min |
+| 4.A|01.11.2023 |alle | Feinschliff und Anpassung des Designs|180 min |
+|4.B |01.11.2023 | Janick & Ben|Projektdoku updaten |20 min |
 
 
 ## 3 Realisieren
@@ -68,15 +68,15 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   20.09.2023    |   Joël        |   45 min            |    45 min               |
 | 1.B|20.09.2023      |    alle       |       180 min        |      180 min             |
-|1.C |20.09.2023 |alle |180 min | 135 min|
-|1.D |20.09.2023 |Janick |10 min |10 min |
+|1.C |20.09.2023 |Joël |180 min | 135 min|
+|1.D |20.09.2023 |Janick |20 min |20 min |
 |2.A |18.10.2023 |alle |135 min |135 min |
-|2.B |18.10.2023 |alle |90 min |60 min |
-|2.C |18.10.2023 |Ben |10 min |10 min |
+|2.B |18.10.2023 |Joël |90 min |60 min |
+|2.C |18.10.2023 |Ben |20 min |10 min |
 |3.A |25.10.2023 |alle |180 min | 180 min|
 |3.B | 25.10.2023|Joël |10 min |10 min|
 |4.A |01.11.2023 |alle |180 min | 180 min|
-|4.B |01.11.2023 |Janick |10 min |10 min |
+|4.B |01.11.2023 |Janick & Ben|20 min |30 min |
 
 ## 4 Kontrollieren
 
