@@ -2,10 +2,9 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Joël Haldimann
-
-Ben Müller
-
+Gruppenmietglieder:
+Joël Haldimann, 
+Ben Müller, 
 Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
