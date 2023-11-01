@@ -27,10 +27,11 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |       Muss          |   Funktional   | Als ein Spieler möchte ich das Spiel starten, damit ich spielen kann. |
+| 2  |  Muss               |   Funktional   |     Als ein Spieler möchte ich einen Betrag einsetzen können, damit ich ein Gewinn machen kann.                               |
+|3|Muss|Funktional|Als ein Benutzer möchte ich eine funktionierende Zufalls-Funktion, damit ich spass am spielen habe.|
+|4|Muss|Rand|Als ein Nutzer möchte ich die Applikation in einem WPF Window öffnen können, damit ich eine tolle Zeit beim Spielen habe.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
