@@ -55,40 +55,32 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 | 1.D|20.09.2023 | Janick| Projektdoku updaten| 10 min |
 |2.A |18.10.2023 |alle |Eingabefunktion für Benutzer |135 min |
 |2.B | 18.10.2023|alle |Zufallsgenerator für die Felder |90 min |
-|2.C | 18.10.2023| | | |
+|2.C | 18.10.2023|Ben |Projektdoku updaten | 10 min|
+|3.A |25.10.2023 |alle |Code zusammengesetzt und design angepasst |180 min |
+|3.B | 25.10.2023|Joël | Projektdoku updaten|10 min |
+| 4.A|01.11.2023 |alle | Feinschliff und anpassung des Designs|180 min |
+|4.B |01.11.2023 | Janick|Projektdoku updaten |10 min |
 
 
-
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
-## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
-## 4 Realisieren
+## 3 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   20.09.2023    |   Joël        |   45 min            |    45 min               |
+| 1.B|20.09.2023      |    alle       |       180 min        |      180 min             |
+|1.C |20.09.2023 |alle |180 min | 135 min|
+|1.D |20.09.2023 |Janick |10 min |10 min |
+|2.A |18.10.2023 |alle |135 min |135 min |
+|2.B |18.10.2023 |alle |90 min |60 min |
+|2.C |18.10.2023 |Ben |10 min |10 min |
+|3.A |25.10.2023 |alle |180 min | 180 min|
+|3.B | 25.10.2023|Joël |10 min |10 min|
+|4.A |01.11.2023 |alle |180 min | 180 min|
+|4.B |01.11.2023 |Janick |10 min |10 min |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
-## 5 Kontrollieren
+## 4 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
 | ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
-
