@@ -6,10 +6,10 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
+|   20.09.2023    | 0.0.1   | Heute haben wir uns in Windows WPF eingearbeitet und haben angefangen, das Main-Window zu programmieren. |
+|    18.10.2023   | 0.0.2    |    Heute haben wir das Main-Window fertig programmiert und angefangen das eigentliche Spiel zu programmieren.      |                                                    |
+|    25.10.2023   | 0.0.3   |              Heute haben wir das Spiel grundsätzlich fertig gestellt. Alle Funktionen sind programmiert.|                                                |
+|01.11.2023|0.1|Heute haben wir das Spiel und den Code noch überarbeitet und den Feinschliff gemacht.|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
