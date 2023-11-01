@@ -49,8 +49,16 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  20.09.2023     |    Joël       |      Projekt erstellen mit notwendigen Dateien.        |        45 min       |
+| 1.B  |   20.09.2023    |    alle      |       Code zum Main-Window schreiben.       |     180 min          |
+| 1.C | 20.09.2023 | alle | Design fürs Main-Window erstellt| 180 min |
+| 1.D|20.09.2023 | Janick| Projektdoku updaten| 10 min |
+|2.A |18.10.2023 |alle |Eingabefunktion für Benutzer |135 min |
+|2.B | 18.10.2023|alle |Zufallsgenerator für die Felder |90 min |
+|2.C | 18.10.2023| | | |
+
+
+
 
 Total: 
 
