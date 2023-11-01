@@ -1,11 +1,11 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 Gruppenmietglieder:
 Joël Haldimann, 
 Ben Müller, 
 Janick Hurschler
+
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -13,13 +13,15 @@ Janick Hurschler
 |    18.10.2023   | 0.0.2    |    Heute haben wir das Main-Window fertig programmiert und angefangen das eigentliche Spiel zu programmieren.      |                                                    |
 |    25.10.2023   | 0.0.3   |              Heute haben wir das Spiel grundsätzlich fertig gestellt. Alle Funktionen sind programmiert.|                                                |
 |01.11.2023|0.1|Heute haben wir das Spiel und den Code noch überarbeitet und den Feinschliff gemacht.|
+
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Roulette-Spiel mit Windows WPF und C#.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man kann sein Einsatz gewinnen und verlieren. Dabei wird keine echte Währung eingesetzt. Bei dem Spiel setzt man ein Betrag auf ein Feld oder eine bestimmte Auswahl an Feldern. Je unwahrscheinlicher das Feld ist, desto höher der möglich Gewinn. Nach dem Einsatz wird eine Zufällige Zahl generiert, die eine zwirbelnde Kugel ersetzt. Schlussendlich wird hat der Spieler richtig gesetzt und bekommt ein Gewinn oder er hat sich vertan und geht pleite.
+
 
 ### 1.2 User Stories
 
