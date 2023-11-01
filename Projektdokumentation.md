@@ -37,14 +37,13 @@ Wir möchten ein Roulette-Spiel programmieren, das jedermann spielen kann. Man k
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+| 1.1  |     /         |   Spiel starten     |      Spiel wird gestartet             |
+| 2.1  |  Spiel gestartet             |     auf den Startknopf drücken    |   Spiel-Window öffnet sich.                |
+| 3.1  |       stat-Knopf gedrückt       |    Betrag eingeben     |         Betrag wird korrekt angezeigt.          |
+| 4.1  |       Betrag wurde eingegeben       |    Runde starten     |        Runde wird gestartet.           |
+| 5.1  |      Runde wurde gestartet        |    /     |       Zufälliges Feld wird ausgegeben.            |
+| 6.1  |       Zufällige Zahl wurde ausgegeben       |    /     |         Spiel vergleicht und gibt aus, ob es ein Gewinn oder ein Verlust ist.          |
+| 7.1  |      Runde gespielt        |    /     |         aktuelle Geldstand wird angepasst.          |
 
 ## 2 Planen
 
