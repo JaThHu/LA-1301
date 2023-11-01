@@ -39,7 +39,7 @@ Wir programmieren ein Roulette-Spiel, das jedermann spielen kann. Man kann seine
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |     /         |   Spiel starten     |      Spiel wird gestartet             |
 | 2.1  |  Spiel gestartet             |     auf den Startknopf drücken    |   Spiel-Window öffnet sich.                |
-| 3.1  |       stat-Knopf gedrückt       |    Betrag eingeben     |         Betrag wird korrekt angezeigt.          |
+| 3.1  |       Start-Knopf gedrückt       |    Betrag eingeben     |         Betrag wird korrekt angezeigt.          |
 | 4.1  |       Betrag wurde eingegeben       |    Runde starten     |        Runde wird gestartet.           |
 | 5.1  |      Runde wurde gestartet        |    /     |       Zufälliges Feld wird ausgegeben.            |
 | 6.1  |       Zufällige Zahl wurde ausgegeben       |    /     |         Spiel vergleicht und gibt aus, ob es ein Gewinn oder ein Verlust ist.          |
