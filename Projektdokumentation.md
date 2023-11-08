@@ -82,5 +82,10 @@ Wir programmieren ein Roulette-Spiel, das jedermann spielen kann. Man kann seine
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   08.11.2023    |     check     |    Janick    |
+| 2.1  |    08.11.2023   |     check     |    Janick    |
+| 3.1  |    08.11.2023   |     check     |    Janick    |
+| 4.1  |    08.11.2023   |     check     |    Janick    |
+| 5.1  |    08.11.2023   |     check     |    Janick    |
+| 6.1  |    08.11.2023   |     check     |    Janick    |
+| 7.1  |    08.11.2023   |     check     |    Janick    |
