@@ -1,0 +1,39 @@
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\bin\Debug\bulettenRurg.exe.config
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\bin\Debug\bulettenRurg.exe
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\bin\Debug\bulettenRurg.pdb
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.csproj.AssemblyReference.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.csproj.SuggestedBindingRedirects.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\MainWindow.g.cs
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\App.g.cs
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg_MarkupCompile.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg_MarkupCompile.lref
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\MainWindow.baml
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.g.resources
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.Properties.Resources.resources
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.csproj.GenerateResource.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.csproj.CoreCompileInputs.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.exe
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\bulettenRurg.pdb
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\StartScreen.g.cs
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\StartScreen.baml
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\Tutorial.g.cs
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\bulettenRurg\obj\Debug\Tutorial.baml
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\bin\Debug\bulettenRurg.exe.config
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\bin\Debug\bulettenRurg.exe
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\bin\Debug\bulettenRurg.pdb
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.csproj.AssemblyReference.cache
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\MainWindow.g.cs
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\StartScreen.g.cs
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\Tutorial.g.cs
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\App.g.cs
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg_MarkupCompile.cache
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg_MarkupCompile.lref
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\MainWindow.baml
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\StartScreen.baml
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\Tutorial.baml
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.g.resources
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.Properties.Resources.resources
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.csproj.GenerateResource.cache
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.csproj.CoreCompileInputs.cache
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.exe
+C:\Users\haldi\OneDrive\Desktop\bulettenRurg\obj\Debug\bulettenRurg.pdb
