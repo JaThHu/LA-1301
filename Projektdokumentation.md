@@ -37,13 +37,13 @@ Wir programmieren ein Roulette-Spiel, das jedermann spielen kann. Man kann seine
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |     /         |   Spiel starten     |      Spiel wird gestartet             |
+| 1.1  |     Benutzer möchte spielen      |   Spiel starten     |      Spiel wird gestartet             |
 | 2.1  |  Spiel gestartet             |     auf den Startknopf drücken    |   Spiel-Window öffnet sich.                |
 | 3.1  |       Start-Knopf gedrückt       |    Betrag eingeben     |         Betrag wird korrekt angezeigt.          |
 | 4.1  |       Betrag wurde eingegeben       |    Runde starten     |        Runde wird gestartet.           |
-| 5.1  |      Runde wurde gestartet        |    /     |       Zufälliges Feld wird ausgegeben.            |
-| 6.1  |       Zufällige Zahl wurde ausgegeben       |    /     |         Spiel vergleicht und gibt aus, ob es ein Gewinn oder ein Verlust ist.          |
-| 7.1  |      Runde gespielt        |    /     |         aktuelle Geldstand wird angepasst.          |
+| 5.1  |      Runde wurde gestartet        |    Startknopf wurde gedrückt   |       Zufälliges Feld wird ausgegeben.            |
+| 6.1  |       Zufällige Zahl wurde ausgegeben       |    Startknopf wurde gedrückt    |         Spiel vergleicht und gibt aus, ob es ein Gewinn oder ein Verlust ist.          |
+| 7.1  |      Runde gespielt        |    Startknopf wurde gedrückt     |         aktuelle Geldstand wird angepasst.          |
 
 ## 2 Planen
 
